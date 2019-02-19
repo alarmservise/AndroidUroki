@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/P0101_Listener.iml" filepath="$PROJECT_DIR$/P0101_Listener.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0101_Listener-master.iml" filepath="$PROJECT_DIR$/P0101_Listener-master.iml" />
     </modules>
   </component>
 </project>
